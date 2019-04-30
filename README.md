@@ -4,7 +4,7 @@ Show us your ASP.NET skills with this developer challenge.
 We are looking for rockstar developers that know how to **KiSS** (Keep-it-Simple-Stupid), while building scalable solutions that can go the distance using the Microsoft technology stack.
 
 ## The Challenge
-Build a Web API backend that supports adding and listing of **Comments** for a Blog website.
+Build a *Web API* backend that supports adding and listing of **Comments** for a Blog website.
 
 
 ## Requirements
