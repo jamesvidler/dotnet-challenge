@@ -25,7 +25,7 @@ Once you are satisfied, please ensure you create a GitHub repo, with an appropri
 ## Evaluation
 You will be evaluated on the following:
 - Demonstration of basic ASP.NET MVC concepts
-- You meet the basic requirements
+- You met the basic requirements
 - The quality of your code
 - Ability to document your GitHub Repo and API effectively
 - Your thoughts on how to make it more scalable
