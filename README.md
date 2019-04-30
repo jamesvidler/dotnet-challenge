@@ -18,9 +18,14 @@ Build a Web API backend that supports adding and listing of **Comments** for a B
 - Must use ASP.NET MVC (.NET Framework) OR ASP.NET Core MVC 
 - Bonus for deploying the web app to Azure or another cloud provider
  
-
 ## Submission
-Once you are satisfied, please ensure you create a GitHub repo, an appropriate README.MD file to run your project and the repo URL via email to your contact at Agility.
+Once you are satisfied, please ensure you create a GitHub repo, with an appropriate README.MD file to run your project and the repo URL via email to your contact at Agility.
 
+## Evaluation
+You will be evaluated on the following:
+- Demonstration of basic ASP.NET MVC concepts
+- The quality of your code
+- Ability to document your GitHub Repo and API effectively
+- Going the extra-mile to demonstrate your skills or willingness to learn
 
 
