@@ -20,7 +20,7 @@ Build a *Web API* backend that supports adding and listing of **Comments** for a
 - Bonus for deploying the web app to Azure or another cloud provider
  
 ## Submission
-Once you are satisfied, please ensure you create a GitHub repo, with an appropriate README.MD file to run your project and the repo URL via email to your contact at Agility.
+Submit your work using a public GitHub repo with an appropriate README.MD file to run your project. E-mail the repo URL to your contact at Agility. If you deployed your web app, make sure you include the URL where it can be viewed.
 
 ## Evaluation
 You will be evaluated on the following:
